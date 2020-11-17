@@ -1,0 +1,166 @@
+.app{
+    color: orange;
+    top:10%
+}
+.navbar-collapse {
+    margin-top: 20px;
+    color: black;
+}
+.navbar-nav li{
+    color: black;
+    
+    font-weight: bold;
+    font-size: 15px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    padding: 7px;
+    font-family: 'Libre Baskerville', serif;
+}
+.navbar-nav {
+    color: black;
+    margin-right: 180px;
+}
+.navbar-nav a{
+    color: black;
+}
+.btn{
+    background-color: blue;
+    border-radius: 40px;
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px; ;
+}
+.head h1{
+    font-weight: bold;
+}
+.para p{
+    color: grey;
+    font-size: 14px;
+
+}
+.btn2{
+    background-color: blue;
+    border-radius: 40px;
+    font-size: 13px;
+    color: white;
+    font-weight: bold;
+    width: 30%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px; ;
+    
+}
+.demo{
+    color: blue;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: bold
+    ;
+}
+.demo2 {
+    display: flex;
+    padding: 5px;
+}
+.fa-check{
+    background-color:orange;
+    border-radius: 50%;
+    padding: 5px;
+    color:white;
+    
+}
+.icon{
+    background-color: gainsboro;
+    border-radius: 10px;
+    width: 55%;
+    font-size: 13px;
+    
+}
+.middle{
+    height: 852px;
+}
+.middle div{
+}
+
+.choice{
+    margin-top: 228px;
+}
+.one{
+    margin-top: 30px;
+}
+
+.logos li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+}
+.logos li img{
+    width: 70%;
+}
+.mid_logo{
+    margin-top: 100px;
+}
+.logos{
+    margin-top: 20px;
+}
+.blood{
+    margin-left: 20px;
+}
+
+.curve{
+    width: 100%;
+    height: 781;
+}
+.vector1{
+    width: 65px;
+    height: 54px;
+    background-color:#ffcccb;
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.vector2{
+    width: 65px;
+    height: 54px;
+    color: blue;
+    border-radius: 50%;
+    /* background-color:lightskyblue;
+     */
+     background-color: rgb(233, 232, 241);
+    padding: 10px;
+    margin-top: 10px;
+}
+.vector3{
+    width: 65px;
+    height: 54px;
+    background-color:rgb(223, 247, 223);
+    border-radius: 50%;
+    padding: 10px;
+    margin-top: 10px;
+}
+.heading1{
+    color: red;
+
+}
+.heading2{
+    color: blue;
+}
+.heading3{
+    color: green;
+}
+.awsome{
+    margin-left: 40px;
+}
+.second{
+    margin-top: 20px;
+}
+.curve1{
+    margin-top: 50px;
+}
+.aws{
+    font-weight: bold;
+    font-size: 28px;
+}
